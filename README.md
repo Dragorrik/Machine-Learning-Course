@@ -1,5 +1,5 @@
 # Watched Videos
---------------
+
 1. Introduction:Machine Learning Fundamentals
 2. Intoduction to TensorFlow
 3. Core Learning Algorithms
