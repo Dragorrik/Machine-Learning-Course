@@ -1,6 +1,6 @@
 # Watched Videos
 
-##Tensorflow:
+## Tensorflow:
 1. Introduction:Machine Learning Fundamentals
 2. Intoduction to TensorFlow
 3. Core Learning Algorithms
@@ -34,7 +34,7 @@
 31. Reinforcement Learning With Q-Learning:Example
 32. Conclusion
 
-##How Neural Networks Work:
+## How Neural Networks Work:
 1. How Deep Neural Networks Work
 2. Recurrent Neural Networks RNN and Long Short Term Memory LSTM
 3. Deep Learning Demystified
